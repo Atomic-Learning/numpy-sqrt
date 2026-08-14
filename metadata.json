@@ -1,7 +1,7 @@
 {
     "title": "NumPy: Basic Numeric Functions",
     "slug": "numpy-basic-numeric-functions",
-    "description": "An introduction to basic numeric functions in NumPy including absolute value, sign, square root, cube root, square, round down, round up, round nearest, truncation.",
+    "description": "How to use np.sqrt to take the square root of an array of numbers.",
     "authors": [
         "chris-cooling",
         "giorgia-del-missier"
@@ -10,7 +10,7 @@
         "numpy",
         "python"
     ],
-    "duration": 3,
+    "duration": 1,
     "prerequisites": [
         "numpy-arrays",
         "programming-elementwise-operations",
