@@ -1,22 +1,25 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "NumPy: Basic Numeric Functions",
+    "slug": "numpy-basic-numeric-functions",
+    "description": "An introduction to basic numeric functions in NumPy including absolute value, sign, square root, cube root, square, round down, round up, round nearest, truncation.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "numpy",
+        "python"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "numpy-arrays",
+        "programming-elementwise-operations",
+        "programming-calling-functions"
     ],
     "related": [
-        "",
-        ""
+        "numpy-array-arithmetic"
+    ],
+    "python_pacakages": [
+        "numpy"
     ]
 }
