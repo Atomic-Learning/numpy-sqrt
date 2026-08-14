@@ -1,6 +1,6 @@
 {
-    "title": "NumPy: Basic Numeric Functions",
-    "slug": "numpy-basic-numeric-functions",
+    "title": "NumPy: The sqrt() Function",
+    "slug": "numpy-sqrt",
     "description": "How to use np.sqrt to take the square root of an array of numbers.",
     "authors": [
         "chris-cooling",
