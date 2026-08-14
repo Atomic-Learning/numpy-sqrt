@@ -14,7 +14,8 @@
     "prerequisites": [
         "numpy-arrays",
         "programming-elementwise-operations",
-        "programming-calling-functions"
+        "programming-calling-functions",
+        "programming-integers-and-floats"
     ],
     "related": [
         "numpy-array-arithmetic"
