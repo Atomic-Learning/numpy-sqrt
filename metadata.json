@@ -10,12 +10,13 @@
         "numpy",
         "python"
     ],
-    "duration": 1,
+    "duration": 2,
     "prerequisites": [
         "numpy-arrays",
         "programming-elementwise-operations",
         "programming-calling-functions",
-        "programming-integers-and-floats"
+        "programming-integers-and-floats",
+        "programming-nan"
     ],
     "related": [
         "numpy-array-arithmetic"
